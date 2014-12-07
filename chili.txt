@@ -1,1 +1,5 @@
-chili recipe.
+This is my recipe for chili:
+	* 1/2 pound of ground beef
+	* 3 Tbsp chili powder
+	* 1 diced white onion
+	* 3 Tbsp paprika
